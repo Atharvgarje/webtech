@@ -1,0 +1,41 @@
+unpaired tag: tag who don't have end tag
+non-container: (does not expect any content) doesn't need to pass and content 
+self closing : don't have end tag 
+ex: <meta><img><br><hr><input>
+
+paired tag:
+conainer tag: we need to pass content in it
+ex. <h1></h1>
+<p></p>
+
+today  leanred:
+<br>
+<hr>
+we can't use nested comment in html 
+formatting tags
+use 2 ways to bold text<b> and <strong>
+but <b> is old tag and <strong> is new
+<strong> is better for seo but not <b>
+<strong>//seo
+<i></i> italic
+<em></em> emphasize //seo
+<u></u> underline text
+<ins></ins> insert underline//seo
+//mark the test
+<mark></mark> //depricated
+//superscript
+<sup></sup>//it takes text to power 
+//subscript
+<sub></sub>//it takes text to base
+//preformatting
+<pre></pre>//format tags into pre format
+//it consider white spaces given  by user
+
+//address tag
+<address></address>// this tag is used to address 
+//it is use for seo purpose
+
+//code tag
+<code></code>//seo
+// to add code in webpage 
+

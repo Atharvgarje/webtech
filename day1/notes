@@ -1,0 +1,15 @@
+we can store 4 types of content in tags
+1)<p> </p>
+2)<p> hii</p>
+3) <p></p>
+4)<div><p>hii</p><div>
+in 4th <div> is parent tag and <p> is child tag
+we need boiler plate to create html file
+ex: <html> 
+    <head>
+    </head>
+    <body> 
+    </body>
+    </html>
+
+collection of web pages is website
