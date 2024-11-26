@@ -8,10 +8,10 @@ ex:- &gt; -> for greater than symbol
 
 semantic tags
     it is self explanatary tags(it explains itself)
-    those tags by listening its name we get and idea for which purpose it is made for
+    by listening its name we get and idea for which purpose it is made for
     ex. header,button,footer,aside,from,list,ol,ul,caption,img,video,audio;
     symantic tags improve the code readability
     helps to achieve s.e.o.
-    
+    div and span are non semantic tags
 
 
