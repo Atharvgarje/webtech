@@ -1,0 +1,17 @@
+entities(have to write in notes)
+
+it is a small code snippets/statements
+that can be used to get all the special character 
+ex:- &gt; -> for greater than symbol
+     &lt; -> for less than symbol
+     &nbsp;-> (non breakable space) for getting single space
+
+semantic tags
+    it is self explanatary tags(it explains itself)
+    those tags by listening its name we get and idea for which purpose it is made for
+    ex. header,button,footer,aside,from,list,ol,ul,caption,img,video,audio;
+    symantic tags improve the code readability
+    helps to achieve s.e.o.
+    
+
+
