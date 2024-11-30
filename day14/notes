@@ -1,0 +1,32 @@
+tags:
+form
+input
+label
+button
+select
+option
+text area
+datalist
+
+
+attributes:
+type
+id
+for
+name
+value
+min
+max
+step
+rows
+cols
+autofocus
+placeholder
+readonly
+disabled
+required
+list
+minlength
+maxlength
+
+list will tell which datalist to follow

@@ -6,11 +6,21 @@
     <title>Document</title>
 </head>
 <body>
+    <center>
     <form action="">
-        <label for="html">html</label>
-        <input type="checkbox" id="html">
-        <label for="user">username :</label>
-        <input type="text" id="user">
+        <strong><h2 style="color: blue;">Facebook </h2></strong>
+        <input type="text" id="user" autofocus placeholder="username" maxlength="10" minlength="10"><br><br>
+        <input type="password" autofocus placeholder="password" maxlength="15" minlength="8"><br><br>
+        <input type="text"  required readonly value="i am not a terrorist"><span style="color: red;">*</span><br><br>
+        <button type="submit" >Log in</button>
+        <button type="reset" >Cancel</button>
+        <input list="cars">
+        <datalist id="cars">
+            <option value="mustang">
+            <option value="bmw">
+            <option value="masserati">      
+        </datalist>
     </form>
+    </center>
 </body>
 </html>
