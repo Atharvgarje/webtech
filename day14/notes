@@ -7,6 +7,12 @@ select
 option
 text area
 datalist
+fieldset
+legend
+marquee
+
+details:heading
+summary:summary of the heading
 
 
 attributes:
@@ -28,5 +34,11 @@ required
 list
 minlength
 maxlength
+size
+pattern
 
-list will tell which datalist to follow
+list will tell which datalist to follow\
+regex:
+pattern attribute 
+
+it will show how many character should be displayed from imput (there will be some margin)
